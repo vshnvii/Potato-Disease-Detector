@@ -1,4 +1,4 @@
-# Potato Disease Classifier 
+# Potato Disease Detector 
 
 A deep learning model using TensorFlow and MobileNetV2 to classify potato leaf diseases (Early Blight, Late Blight, Healthy), with a Streamlit frontend.
 
