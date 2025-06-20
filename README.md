@@ -21,5 +21,8 @@ Achieved **~94% validation accuracy** on the PlantVillage dataset (Potato subset
 ```bash
 git clone https://github.com/vshnvii/Potato-Disease-Detector.git
 cd Potato-Disease-Detector
+
+2. Streamlit:
+```bash
 streamlit run app.py
 
